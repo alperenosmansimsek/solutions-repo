@@ -25,5 +25,9 @@ nav:
       - Mechanics:
           - Problem 1: "1 Physics/1 Mechanics/Problem_1.md"
           - Problem 2: "1 Physics/1 Mechanics/Problem_2.md"
+      - Gravity :
+          - Problem 1: "1 Physics/2 Gravity/Problem_1.md"
+          - Problem 2: "1 Physics/2 Gravity/Problem_2.md"
+          - Problem 3: "1 Physics/2 Gravity/Problem_3.md"
 
     
