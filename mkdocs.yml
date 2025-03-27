@@ -1,4 +1,5 @@
 site_name: Physics and Mathematics
+
 theme:
   name: readthedocs
   highlightjs: true
