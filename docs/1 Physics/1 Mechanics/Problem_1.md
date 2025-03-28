@@ -132,3 +132,5 @@ Future explorations might involve integrating machine learning methods to foreca
 ## Conclusion
 
 The dynamics of projectile motion offer profound mathematical and physical insights. While the simplified model serves as a decent approximation, practical implementations necessitate numerical approaches to address non-ideal scenarios.
+
+![Forced Damped Pendulum Motion](images/problem-1-1.JPG)

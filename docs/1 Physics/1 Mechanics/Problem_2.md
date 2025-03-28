@@ -123,3 +123,5 @@ This script numerically solves the rotational system equation and plots ( \alpha
 ## 6. Conclusion
 
 The forced damped rotational system exhibits a broad spectrum of dynamic behaviors, ranging from simple harmonic motion to chaotic oscillations. By manipulating damping, forcing, and frequency, we can delve into resonance, stability, and chaotic dynamics, thereby gaining insights into both fundamental physics and engineering applications.
+
+![Forced Damped Pendulum Motion](images/problem-2-2.JPG)
