@@ -26,6 +26,8 @@ where:
 - $\theta$ is the launch angle,
 - $g$ is the acceleration due to gravity.
 
+![Projectile Range vs. Launch Angle](images/problem-1-5.JPG)
+
 ### Time of Flight and Range
 
 To find the time of flight, we set $y(t) = 0$ and solve for $t$:
